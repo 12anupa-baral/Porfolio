@@ -1,0 +1,129 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+
+.details{
+    margin-top:2rem ;
+    display:flex;
+    justify-content: space-between;
+}
+
+h1{
+    font-size: 4rem;
+   color:#DDC9B4;
+   margin-top: 5rem;
+   margin-left: 2rem;
+}
+.info{ 
+    font-size: 1.2rem;
+    margin-top:1rem;
+    margin-left: 2rem;
+    width:30rem;
+    color:rgb(206, 206, 206);
+
+}
+.container{
+    /* background-color: rgb(14, 5, 114); */
+    width: 60%;
+    background-color: #2A3D45; 
+    border-radius: 5%;
+    margin-bottom: 2rem;
+    margin-left: 20rem;
+
+}
+
+
+ img{
+
+   height:350px;
+   width: 320px;
+   border-radius: 50%;
+   margin-top:2rem ; 
+   margin-right:2rem ;
+   border:2px solid #EFEFD0;
+  
+   
+  
+}
+
+li{
+    list-style-type: none;
+    margin-top: 2rem;
+    margin-left:1rem;
+    
+}
+a{
+    text-decoration: none;
+    color:rgb(225, 225, 225);
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+nav ul{
+    display:flex;
+    height:5rem;
+    justify-content: center;
+    border-bottom:2px solid #EFEFD0;
+    
+   
+}
+
+button{
+    margin-top: 1rem;
+    margin-left: 2rem;
+    padding:0.7rem;
+    width: 15rem;
+    background-color:rgb(5, 138, 0);
+
+    color: white;
+    font-size: medium;
+    font-weight: bold;  
+}
+
+.projects{
+    margin-bottom: 2rem;
+    display: flex;
+   
+}
+
+.project1 , .project2 ,.project3 {
+    border-radius: 5%;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    margin-left: 1rem;
+    padding: 1rem;
+    width: 15.5rem;
+    height:15rem;
+
+    text-align: justify;
+    background-color:#EFEFD0;
+
+}
+
+.project1 p{
+    color: black;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+
+}
+
+.project1 a{
+    color: #009035;
+
+}
+
+.projects h2{
+    color:rgb(253, 81, 7);
+    margin:auto;
+}
+
+h2{
+    color:#EFEFD0;
+    margin-top:2rem;
+    margin-left:20rem;
+}
+
+
+
